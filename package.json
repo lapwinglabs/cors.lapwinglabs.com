@@ -9,6 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "cors-anywhere": "^0.2.3"
+    "cors-anywhere": "^0.2.3",
+    "throng": "^1.0.0"
   }
 }
